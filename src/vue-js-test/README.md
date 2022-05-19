@@ -1,5 +1,3 @@
-# Unibet-Live-App
-
 ## What is the use of this Repo [![Generic badge](https://img.shields.io/badge/What-VueJS-blue.svg)](https://vuejs.org/v2/guide/)
 
 This Repo demonstrates the use of the following in vuejs
