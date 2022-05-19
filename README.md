@@ -1,5 +1,3 @@
-# Unibet-Live-App
-
 ## Exécuter l'application Front-End
 
 1. Installer NodeJS à partir de la version 12
